@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" /> I love to build amazing apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Software Engineer looking to make a splash in the tech world by bridging my passion for programming with over a decade of management and fundraising experience.
+            I'm an aspiring developer looking to make a splash in the tech world by bridging my passion for programming with over a decade of management and fundraising experience.
           </p>
           <p>
             I love spending time with family and friends, playing video games, woodworking, golfing, and most outdoor activities. I strive to leave a positive impact on anyone I interact with.
