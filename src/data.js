@@ -8,12 +8,12 @@ export const projects = [
     link: "https://u-picme.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Frankflix",
+    subtitle: "Netflix Clone",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "Netflix clone built with React and Firebase. Still a work in progress. Firebase authentication functionality almost complete.",
+    image: "./frankflix.gif",
+    link: "https://frankflix-a8def.web.app/",
   },
   {
     title: "DevChat",
@@ -24,12 +24,12 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "JavaScript Quiz",
+    subtitle: "Learning JS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Simple quiz app made for an assignment",
+    image: "./jsquiz.gif",
+    link: "https://github.com/xfroxic/jsquiz",
   },
 ];
 
